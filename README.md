@@ -1,4 +1,4 @@
-[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/051/383/443/large/shane-lee-littlewood-asset-49.jpg?1657148212)
+![MasterHead](https://cdnb.artstation.com/p/assets/images/images/051/383/443/large/shane-lee-littlewood-asset-49.jpg?1657148212)
 <h1 align="center">Hi 👋, I'm Efe Berk Cetinbas</h1>
 <h3 align="center">A passionate Game Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
