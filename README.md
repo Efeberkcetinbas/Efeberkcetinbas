@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **""Cross Balls, Path,OneTapMan"**
 
-- 🌱 I’m currently learning **Unity Multiplayer and Grid System**
+- 🌱 I’m currently learning **Unity Multiplayer and State Machine System**
 
 - 📫 How to reach me **cetinbasefeberk@gmail.com**
 
