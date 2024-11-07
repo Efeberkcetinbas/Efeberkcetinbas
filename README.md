@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Game Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 🔭 I’m currently working on **""Direction Bridge"**
+- 🔭 I’m currently working on **""Galactic Market"**
 
 - 🌱 I’m currently learning **Unity Multiplayer and State Machine System**
 
